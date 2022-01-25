@@ -21,16 +21,3 @@ Trying to delete the first field of each person will result in an alert from the
 CSS effects have been added so that each field and button gets highlighted when its been hovered upon.
 There are minimum values set wherever necessary so that the user can't put in negative values.
 Certain fields which are essential to the final calculation have been marked as "Required". Submission without filling these fields result in an alert from the page which asks the user to complete all incomplete fields.
-Preview & Snapshots of the webpage
-First Page
-
-First Page before submitting
-
-Calculation Page
-
-Working of the "+" and "-" button
-
-How to enter data
-
-Final Display
-
